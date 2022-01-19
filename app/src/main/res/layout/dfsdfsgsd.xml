@@ -15,7 +15,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
         android:scaleType="centerCrop"
-        android:src="@drawable/f6" />
+        android:src="@drawable/fggfgdfd" />
 
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/fcv"
